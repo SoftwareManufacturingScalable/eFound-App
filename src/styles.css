@@ -1,0 +1,18 @@
+.box-shadow {
+  box-shadow: 0px 5px 5px rgb(0, 0, 0, 0.2);
+}
+
+.title-app span {
+  font-weight: bold;
+  background: #333333; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #dd1818,
+    #333333
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #dd1818,
+    #333333
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
